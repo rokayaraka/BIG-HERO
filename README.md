@@ -1,0 +1,1 @@
+"Big Hero" is an interactive desktop application where users train and deploy virtual heroes to save a city from simulated disasters. The game-like application involves resource management, decision-making, and hero customization, making it engaging and educational.
